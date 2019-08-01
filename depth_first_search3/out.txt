@@ -1,0 +1,22 @@
+0: 9 6 2 
+1: 8 2 
+2: 6 7 3 9 8 
+3: 6 5 9 
+4: 8 
+5: 7 
+6: 
+7: 4 9 
+8: 
+9: 1 
+0 9 1 8 2 6 7 4 3 5 
+i=0: colour[]=2, dist[]=0, parent[]=-1 start/end = 0/19
+i=1: colour[]=2, dist[]=2, parent[]=9 start/end = 2/17
+i=2: colour[]=2, dist[]=3, parent[]=1 start/end = 5/16
+i=3: colour[]=2, dist[]=4, parent[]=2 start/end = 12/15
+i=4: colour[]=2, dist[]=5, parent[]=7 start/end = 9/10
+i=5: colour[]=2, dist[]=5, parent[]=3 start/end = 13/14
+i=6: colour[]=2, dist[]=4, parent[]=2 start/end = 6/7
+i=7: colour[]=2, dist[]=4, parent[]=2 start/end = 8/11
+i=8: colour[]=2, dist[]=3, parent[]=1 start/end = 3/4
+i=9: colour[]=2, dist[]=1, parent[]=0 start/end = 1/18
+Edges in DFS tree : [(0, 9), (9, 1), (1, 8), (1, 2), (2, 6), (2, 7), (7, 4), (2, 3), (3, 5)]
