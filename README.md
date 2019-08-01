@@ -1,2 +1,1 @@
-# python-algorithms
-Implementing different data structures and algorithms in python
+Contrary to the iterative approach, in the recursive code, a parent in the DFS tree is coloured black after all its descendents are coloured black. Where as in the iterative approach, a parent in coloured black as soon as its children are coloured grey (added to the stack) and all further descendents are still white (unvisited).
